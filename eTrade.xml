@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="GB2312"?>
+<ProfileOfSystem>
+	<Classification Prompt="服务券商">
+		<ITEM ClassificationName="华泰证券" QsTag="华泰证券">
+			<Misc>
+				<Option SwapCombo="0" ColorYzm="1" MustTXMM="1" ZJZHMaxLen="0" MustDigitPwd="0" MustAccountLen="0" MaxAccountLen="0" AqfsCombo="0" UrlApplyAuthPass="" UrlModifyAuthPass="" HasCXMode="0" AuthPassInfo="" FilterHostType="9" VipXMB="0" ZHListShowYYB="0" ForbidSaveZH="0"/>
+			</Misc>
+			<Site>
+				<ITEM Name="华泰证券（南京电信）" Address="wt.htsc.com.cn" Port="7708" Weight="0" TradVer="NO" HostType="0" yybids="2" areas=""/>
+				<ITEM Name="华泰证券（南京电信一）" Address="61.132.54.83" Port="7708" Weight="0" TradVer="NO" HostType="0" yybids="2" areas=""/>
+				<ITEM Name="华泰证券（南京电信二）" Address="202.102.53.99" Port="7708" Weight="0" TradVer="NO" HostType="0" yybids="2" areas=""/>
+				<ITEM Name="华泰证券（南京电信三）" Address="58.213.143.194" Port="7708" Weight="0" TradVer="NO" HostType="0" yybids="2" areas=""/>
+				<ITEM Name="华泰证券（上海电信）" Address="222.66.230.18" Port="7708" Weight="0" TradVer="NO" HostType="0" yybids="2" areas=""/>
+				<ITEM Name="华泰证券（武汉电信）" Address="219.140.162.6" Port="7708" Weight="0" TradVer="NO" HostType="0" yybids="2" areas=""/>
+				<ITEM Name="华泰证券（深圳电信）" Address="119.145.1.203" Port="7708" Weight="0" TradVer="NO" HostType="0" yybids="2" areas=""/>
+				<ITEM Name="华泰证券（深圳联通）" Address="112.95.148.7" Port="7708" Weight="0" TradVer="NO" HostType="0" yybids="2" areas=""/>
+				<ITEM Name="华泰证券（天津联通）" Address="60.30.249.118" Port="7708" Weight="0" TradVer="NO" HostType="0" yybids="2" areas=""/>
+				<ITEM Name="华泰证券（沈阳联通）" Address="61.161.147.83" Port="7708" Weight="0" TradVer="NO" HostType="0" yybids="2" areas=""/>
+				<ITEM Name="华泰证券（上海联通）" Address="210.22.164.73" Port="7708" Weight="0" TradVer="NO" HostType="0" yybids="2" areas=""/>
+				<ITEM Name="华泰证券（武汉联通）" Address="220.249.78.148" Port="7708" Weight="0" TradVer="NO" HostType="0" yybids="2" areas=""/>
+				<ITEM Name="华泰证券（南京联通）" Address="221.6.22.130" Port="7708" Weight="0" TradVer="NO" HostType="0" yybids="2" areas=""/>
+				<ITEM Name="华泰证券（南京移动）" Address="223.112.2.163" Port="7708" Weight="0" TradVer="NO" HostType="0" yybids="2" areas=""/>
+			</Site>
+			<VipSite/>
+			<LoginMode>
+				<ITEM AccountType="9" Prompt="客户号" HostType="0"/>
+			</LoginMode>
+			<SecurityMode>
+				<ITEM SecurityType="0" Prompt="通达信SSL"/>
+				<ITEM SecurityType="3" Prompt="动态口令"/>
+			</SecurityMode>
+			<Branch/>
+			<VipSite2/>
+		</ITEM>
+	</Classification>
+	<RiskInfo>
+		<BindMachine PATH="htsc.txt"/>
+		<BindRisk PATH="htzq.txt"/>
+	</RiskInfo>
+	<DefaultProfileOfUser>
+		<Colors C11="RGB(100,100,0)"/>
+	</DefaultProfileOfUser>
+</ProfileOfSystem>

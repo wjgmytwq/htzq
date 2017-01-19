@@ -1,0 +1,14 @@
+[OEM]
+DSOEMName=扩展市场行情
+HasHKMarket=0
+MustInGUI=1
+
+[GUISet]
+GUIMarket01=B转H
+GUIMarketSet01=43
+GUIMarketName01=B股转H股
+
+GUIMarket02=期货
+GUIMarketSet02=60,47,28,29,30
+GUIMarketName02=国内主力合约,中金所期货,郑州商品,大连商品,上海商品
+
